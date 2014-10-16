@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[aih:home|Door43 (aih)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-aih|d43-aih repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-aih/archive/master.zip|d43-aih.zip]]
+
+**Recent Changes**
+{{changes>ns = aih}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/aih|Ethnologue data]]
+
